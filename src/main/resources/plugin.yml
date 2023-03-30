@@ -1,0 +1,10 @@
+name: JQMsg
+version: '${project.version}'
+main: maxmeitner.jqmsg.JQMsg
+api-version: 1.13
+authors: [ MaxMeitner ]
+description: With this plugin, you will be able to add custom global and private messages when joining and disconnecting a user.
+website: https://discord.gg/a8yTnMWv8r
+commands:
+  jqmsg:
+    usage: "/jqmsg reload"

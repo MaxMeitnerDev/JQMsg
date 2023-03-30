@@ -1,0 +1,23 @@
+# Use #______ for HEX colors. Only 1.16+
+messages:
+  noPerms: "&7[&a&l!&7]&f You do not have permission to use this command!"
+  pluginReloaded: "&7[&a&l✉&7]&f the plugin has been reloaded."
+
+  onFirstJoin: true
+  firstJoinMsg: "&7[&a&l+&7]&f %player%!"
+
+  personalMsgOnFirstJoin: true
+  personalFirstJoinMsg: |
+    &7[&c✉&7] &fThis is your first visit to our server!
+         We hope you enjoy it!
+
+  onJoin: true
+  joinMsg: "&7[&a&l+&7]&f %player%"
+
+  personalMsgOnJoin: true
+  personalJoinMsg: |
+    &7[&c✉&7] &fWelcome to our server! &c❤
+         &fHave a nice game!
+
+  onQuit: true
+  quitMsg: "&7[&c&l-&7]&f %player%"
